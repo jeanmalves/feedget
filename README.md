@@ -24,4 +24,7 @@ O widget foi desenvolvido no evento NLW return da Rocketseat e este repositório
 Você pode experimentar o widget funcionando pelo site:
 [feedget-jeanmalves.vercel.app](https://feedget-jeanmalves.vercel.app)
 
+Novas funcionalidades adicionadas:
+ - Dark mode: Ao mudar o esquema de cores do seu sistema operacional para dark, o widget mudará para o modo dark automaticamente. 
+
 Para conferir o back-end é só acessar o [repositório](https://github.com/jeanmalves/feedget-backend-nodejs).
